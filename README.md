@@ -1,5 +1,5 @@
 # bmwccids-to-bytes
-A simple BMW Check Control ID to bytes converter, especially for BMW's G chassis can bus.
+A simple BMW Check Control ID to bytes converter, especially for BMW's F and G chassis' can bus.
 
 ### Where do i get the CCID list from?
 
